@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://bbs.77169.com/favicon.ico</string>
+					<string>http://bbs.77169.com/down/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://bbs.77169.com/favicon.ico</string>
+					<string>http://bbs.77169.com/down/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
